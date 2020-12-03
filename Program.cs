@@ -6,7 +6,9 @@ namespace advent_of_code_2020
     {
         static void Main(string[] args)
         {
-            (new Day1()).solve();
+            // (new Day1()).solve();
+            // (new Day2()).solve();
+            (new Day3()).solve();
         }
     }
 }
