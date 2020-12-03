@@ -1,9 +1,6 @@
 using System;
 using System.Collections.Generic;
-using System.Text.RegularExpressions;
-using System.Text;
 using System.Linq;
-
 namespace advent_of_code_2020
 {
     class Day3
