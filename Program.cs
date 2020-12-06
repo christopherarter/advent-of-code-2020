@@ -8,7 +8,8 @@ namespace advent_of_code_2020
         {
             // (new Day1()).solve();
             // (new Day2()).solve();
-            (new Day3()).solve();
+            // (new Day3()).solve();
+            (new Day4()).solve();
         }
     }
 }
